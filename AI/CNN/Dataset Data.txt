@@ -1,0 +1,16 @@
+Text Model - Dataset
+
+Hugging Face Dataset: huzaifa525/Medical_Intelligence_Dataset_40k_Rows_of_Disease_Info_Treatments_and_Medical_QA
+
+Hugging Face Dataset: sajjadhadi/disease-diagnosis-dataset 
+
+Dataset Size: 41 MB / 28.4 MB
+
+CNN Model - Dataset
+
+Dataset: CoronaHack -Chest X-Ray-Dataset
+
+Url: https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
+
+Dataset Size: 1 GB
+

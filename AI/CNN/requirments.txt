@@ -1,0 +1,16 @@
+streamlit
+requests
+pillow
+scikit-learn
+numpy
+pandas
+tensorflow
+torch
+transformers
+datasets
+huggingface_hub
+fsspec
+fastapi
+uvicorn
+kagglehub
+evaluate
